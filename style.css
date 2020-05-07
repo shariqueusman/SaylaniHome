@@ -1,0 +1,156 @@
+.header
+{
+    background-color: rgba(62, 62, 219, 0.767);
+    width: auto;
+    height: 50px;
+    padding-top: 10px;
+}
+
+header
+{
+   width: auto;
+   display: flex;
+   justify-content: center;
+   display: inline;
+   margin-left: 140px;
+   color: white;
+}
+
+.logo
+{
+    margin-left: 80px;
+}
+
+button
+{
+    float: right;
+    padding: 0;
+    margin-right: 20px;
+    width: auto;
+}
+
+.content
+{
+    width: 100%;
+    height: auto;
+    background-color: rgb(224, 237, 241);
+}
+
+li a:hover
+{
+    background-color:#316DC3;
+    color: white;
+    border-radius: 1em;
+}
+
+.active
+{
+    background-color: #316DC3;
+    color: white;
+    border-radius: 1em;
+}
+
+.scroll
+{
+    background-color: #316DC3;
+    font-size:0.9em;
+    margin: 0 auto;
+    margin-top:9px;
+    width: 90%;
+    color:#fff;
+}
+
+.line
+{
+    display: inline;
+}
+
+.features
+{
+    background-color:#F7F8FA;
+    padding-bottom: 80px;
+}
+
+.section-text
+{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.icons
+{
+    background-color: #2755E9;
+    display: flex;
+    width: 100%;
+}
+
+.icon-inner
+{
+    margin: 50px 90px 0 70px;
+    width: 100%;
+}
+
+
+
+.text-content
+{
+    margin-top: 50px;
+}
+
+.card-play
+{
+    margin-top:50px;
+}
+
+.card
+{
+    margin:0 auto;
+    margin-top: 50px;
+}
+
+.activity
+{
+   display:flex;
+   background-color: #F7F8FA;
+}
+
+.services-dev
+{
+    margin-top:50px;
+}
+
+.activity2
+{
+    display: flex;
+    background-color: #F7F8FA;
+}
+
+
+.images-mid
+{
+    display: flex;
+    margin-left: 180px;
+}
+
+footer
+{
+    background-color: #25272E;
+    color: #ADAEAE;
+    margin-top: 60px;
+}
+
+.footimage
+{
+    color: #316DC3;
+}
+
+.footer-top
+{
+    margin-top: 50px;
+}
+
+.activity3
+{
+    margin: 10px auto -5px auto;
+}
